@@ -21,6 +21,3 @@ Pet OS utilizes internal interface permissions solely to execute its primary uti
 
 ## 4. Policy Updates and Contact
 We reserve the right to modify this local privacy policy text at any time. Any changes will be committed directly to our extension source package updates.
-
-If you have any questions regarding our absolute offline user data handles, please contact us directly through our developer support portal channel.
-
