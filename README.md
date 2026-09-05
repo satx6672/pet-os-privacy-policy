@@ -1,6 +1,6 @@
 # Privacy Policy for Pet OS
 
-**Last Updated:** September 3, 2026
+**Last Updated:** September 5, 2026
 
 At Pet OS, we take the privacy of our users and their pets seriously. This Privacy Policy explicitly details our practices regarding the collection, storage, and handling of data within the Pet OS browser extension.
 
